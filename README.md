@@ -1,2 +1,5 @@
 # bright-future
-Nuevo paisaje, nuevo ruido
+New scenery, new noise
+
+
+First day learning code. Checking the tools.
